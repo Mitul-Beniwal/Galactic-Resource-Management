@@ -94,10 +94,11 @@ Built to demonstrate advanced Object-Oriented Programming (OOP) mastery, it mode
 ​Clone the repository and run the simulation locally: 
 bash:
 # Clone the Repo
-git clone https://github.com/Mitul-Beniwal/Galactic-Resource-Management.git
+git clone: 
+https://github.com/Mitul-Beniwal/Galactic-Resource-Management.git
 
 # Navigate and Run
-cd Galactic-Manager
+cd Galactic-Resource-Management
 python src/main.py
 
 
