@@ -106,5 +106,3 @@ python src/main.py
 📂 File Structure
 
 ​src/: Main application logic.
-
-​tests/: Verification scripts to ensure system reliability.
