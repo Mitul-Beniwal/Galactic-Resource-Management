@@ -96,7 +96,6 @@ bash:
 # Clone the Repo
 git clone: 
 https://github.com/Mitul-Beniwal/Galactic-Resource-Management.git
-
 # Navigate and Run
 cd Galactic-Resource-Management
 python src/main.py
